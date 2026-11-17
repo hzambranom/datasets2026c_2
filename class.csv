@@ -1,0 +1,76 @@
+symbol,class
+AAPL,equity
+MSFT,equity
+NVDA,equity
+AMZN,equity
+GOOGL,equity
+GOOG,equity
+AVGO,equity
+META,equity
+TSLA,equity
+LLY,equity
+BRK.B,equity
+WMT,equity
+JPM,equity
+AMD,equity
+MU,equity
+V,equity
+XOM,equity
+JNJ,equity
+MA,equity
+ABBV,equity
+COST,equity
+KO,equity
+CVX,equity
+PG,equity
+PLTR,equity
+CSCO,equity
+ORCL,equity
+MRK,equity
+UNH,equity
+BAC,equity
+HD,equity
+GE,equity
+PM,equity
+MS,equity
+INTC,equity
+AMAT,equity
+TXN,equity
+RTX,equity
+CAT,equity
+LRCX,equity
+TMO,equity
+PANW,equity
+GS,equity
+WFC,equity
+AMGN,equity
+NFLX,equity
+LIN,equity
+ANET,equity
+CRWD,equity
+IBM,equity
+BND,fixed income
+AGG,fixed income
+SGOV,fixed income
+BNDX,fixed income
+VCIT,fixed income
+MUB,fixed income
+VTEB,fixed income
+BIL,fixed income
+IUSB,fixed income
+BSV,fixed income
+TLT,fixed income
+VCSH,fixed income
+IEF,fixed income
+JPST,fixed income
+VGIT,fixed income
+GOVT,fixed income
+VGSH,fixed income
+MBB,fixed income
+LQD,fixed income
+JAAA,fixed income
+BIV,fixed income
+FBND,fixed income
+USHY,fixed income
+VTIP,fixed income
+PULS,fixed income
